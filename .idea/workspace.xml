@@ -2,21 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4e07495-9097-40b5-8cf5-cadfffb4eba5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1_creat_project/firstproject/myapp/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_creat_project/firstproject/myapp/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_creat_project/firstproject/myapp/api/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_creat_project/firstproject/myapp/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_creat_project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_creat_project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_creat_project/firstproject/firstproject-ui" beforeDir="false" afterPath="$PROJECT_DIR$/1_creat_project/firstproject/firstproject-ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_creat_project/firstproject/firstproject-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/1_creat_project/firstproject/firstproject-ui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_creat_project/firstproject/firstproject-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/1_creat_project/firstproject/firstproject-ui/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_creat_project/firstproject/firstproject-ui/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_creat_project/firstproject/firstproject-ui/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_creat_project/firstproject/firstproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_creat_project/firstproject/firstproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_creat_project/firstproject/firstproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_creat_project/firstproject/firstproject/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/1_creat_project/firstproject/firstproject-ui" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2mWBtxL15SLDtqx3zSIvpDCz7IZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,5 +57,16 @@
       <updated>1727182674599</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
